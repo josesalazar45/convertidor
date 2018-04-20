@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">convert</string>
+    <string name="tv1">Currency Exchange</string>
+    <string name="tv2">Value</string>
+    <string name="button">Change</string>
+
+
+    <string name="text1">"dollars are"</string>
+    <string name="text2">"pesos are"</string>
+    <string name="text3">"euros are"</string>
+    <string name="text4">"weights are"</string>
+    <string name="text5">"sterling are"</string>
+    <string name="text6">"weights are"</string>
+
+    <string name="button2">"About"</string>
+    <string name="textView4">"Jose Salazar "</string>
+    <string name="textView2">"University Mariana"</string>
+    <string name="button4">"Return"</string>
+
+</resources>

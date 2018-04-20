@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">convertidor</string>
+    <string name="tv1">Cambio de Divisas</string>
+    <string name="tv2">Valor</string>
+    <string name="button">Cambio</string>
+
+    <string name="text1">"dolares son"</string>
+    <string name="text2">"pesos son"</string>
+    <string name="text3">"euros son"</string>
+    <string name="text4">"pesos son"</string>
+    <string name="text5">"esterlinas son "</string>
+    <string name="text6">"pesos son"</string>
+
+
+    <string name="button2">"Acerca de"</string>
+    <string name="textView4">"Jose Salazar "</string>
+    <string name="textView2">"Universidad Mariana"</string>
+    <string name="button4">"Regresar"</string>
+</resources>
